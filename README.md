@@ -39,6 +39,10 @@ Generate a new application key:
 
 `php artisan key:generate`
 
+Create the symbolic links configured for the application
+
+`php artisan storage:link`
+
 Run the database migrations to create the necessary tables:
 
 `php artisan migrate`
