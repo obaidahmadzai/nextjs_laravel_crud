@@ -99,7 +99,7 @@ function UserForm() {
                                         ? fileHandle
                                         : profile
                                         ? `${process.env.NEXT_PUBLIC_BACKEND_URL}/storage/${profile}`
-                                        : `${process.env.NEXT_PUBLIC_BACKEND_URL}/storage/profile/profile.png`
+                                        : `${process.env.NEXT_PUBLIC_BACKEND_URL}/profile.png`
                                 }
                                 alt="Current profile photo"
                                 onClick={() => inputFilePopUp.current.click()}

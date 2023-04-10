@@ -107,7 +107,7 @@ function Users() {
                                                                                 src={
                                                                                     item.profile
                                                                                         ? `${process.env.NEXT_PUBLIC_BACKEND_URL}/storage/${item.profile}`
-                                                                                        : `${process.env.NEXT_PUBLIC_BACKEND_URL}/storage/profile/profile.png`
+                                                                                        : `${process.env.NEXT_PUBLIC_BACKEND_URL}/profile.png`
                                                                                 }
                                                                                 alt="Current profile photo"
                                                                             />
