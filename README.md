@@ -47,7 +47,15 @@ Start the Laravel server:
 
 **php artisan serve**
 
-In a new terminal window, Install the Nextjs dependencies:
+In a new terminal window
+
+Navigate to the project directory:
+
+the **client** directory is inside the "nextjs_laravel_crud"
+
+**cd client**
+
+Install the Nextjs dependencies:
 
 **npm install**
 
