@@ -1,8 +1,8 @@
 ## Installation
 
-## Next.js and Laravel Integration
+## Next.js and Laravel CRUD Application
 
-This is a sample repository that demonstrates how to integrate Next.js, a popular React-based framework for building server-rendered applications, with Laravel, a PHP-based web application framework.
+This is a sample repository that demonstrates how to build a CRUD (Create, Read, Update, Delete) application using Next.js and Laravel.
 
 Getting Started
 To get started with this project, you'll need to have the following installed on your system:
