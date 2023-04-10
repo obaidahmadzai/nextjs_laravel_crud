@@ -17,7 +17,7 @@ Once you have these dependencies installed, you can follow these steps to get th
 
 Clone this repository to your local machine:
 
-`bash git clone https://github.com/obaidahmadzai/nextjs_laravel_crud.git `
+`git clone https://github.com/obaidahmadzai/nextjs_laravel_crud.git`
 
 Navigate to the project directory:
 
